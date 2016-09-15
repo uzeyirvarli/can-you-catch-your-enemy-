@@ -12,7 +12,7 @@ int main(){
 	printf("if your enemy indise to your field you will lose  \n");
 	printf("you should catch your enemy  \n");
 	printf("dont forget that it is your enemy and it is faster than you  \n \n");
-	printf("GOOD LIKE \n");
+	printf("GOOD LUCK \n");
 		for(i=0;i<24;i++){
 				for(j=0;j<24;j++){
 					dizi[i][j]=0;
